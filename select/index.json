@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "幸せでいてくれよ",
+  "base_artist": "Mr.ふぉるて",
+  "createdAt": "2026-03-27T09:01:25.435799Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "幸せでいてくれよ",
+      "artist": "Mr.ふぉるて",
+      "has_synced": true,
+      "path": "select/01_幸せでいてくれよ_Mr.ふぉるて.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "幸せでいてくれよ",
+      "artist": "Mr.ふぉるて",
+      "has_synced": false,
+      "path": "select/pl_01_幸せでいてくれよ_Mr.ふぉるて.txt"
+    }
+  ]
+}
